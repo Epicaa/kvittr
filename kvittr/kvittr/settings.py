@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'theme',
     'birds',
+    'pips',
 )
 
 MIDDLEWARE_CLASSES = (
